@@ -1,5 +1,5 @@
 .clock {
-    grid-column: 2/11;
+    grid-column: 2/10;
     grid-row: 3/4;
     align-self: end;
 
@@ -14,7 +14,7 @@
 
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 275px));
-    grid-column-gap: 24px;
+    grid-column-gap: 10px;
     align-items: center;
     justify-items: center;
     justify-content: center;
